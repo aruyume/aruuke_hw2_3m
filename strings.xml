@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">aruuke_rakhmanova_hw2_3m</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Enter email</string>
+    <string name="theme">Name the topic</string>
+    <string name="message">Describe your problem</string>
+    <string name="send_data">Send</string>
+</resources>
